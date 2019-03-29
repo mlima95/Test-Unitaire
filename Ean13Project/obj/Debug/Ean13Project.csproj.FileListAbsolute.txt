@@ -1,0 +1,18 @@
+U:\Tp\Slam4\Ean13\Ean13Project\bin\Debug\Ean13Project.dll
+U:\Tp\Slam4\Ean13\Ean13Project\bin\Debug\Ean13Project.pdb
+U:\Tp\Slam4\Ean13\Ean13Project\bin\Debug\Ean13.exe
+U:\Tp\Slam4\Ean13\Ean13Project\bin\Debug\Ean13.pdb
+U:\Tp\Slam4\Ean13\Ean13Project\bin\Debug\Ean13_Accessor.exe
+U:\Tp\Slam4\Ean13\Ean13Project\bin\Debug\Ean13_Accessor.pdb
+U:\Tp\Slam4\Ean13\Ean13Project\obj\Debug\Ean13Project.csprojResolveAssemblyReference.cache
+U:\Tp\Slam4\Ean13\Ean13Project\obj\Debug\Ean13Project.dll
+U:\Tp\Slam4\Ean13\Ean13Project\obj\Debug\Ean13Project.pdb
+C:\Slam 4\Ean13\Ean13Project\bin\Debug\Ean13Project.dll
+C:\Slam 4\Ean13\Ean13Project\bin\Debug\Ean13Project.pdb
+C:\Slam 4\Ean13\Ean13Project\bin\Debug\Ean13.exe
+C:\Slam 4\Ean13\Ean13Project\bin\Debug\Ean13.pdb
+C:\Slam 4\Ean13\Ean13Project\bin\Debug\Ean13_Accessor.exe
+C:\Slam 4\Ean13\Ean13Project\bin\Debug\Ean13_Accessor.pdb
+C:\Slam 4\Ean13\Ean13Project\obj\Debug\Ean13Project.csprojResolveAssemblyReference.cache
+C:\Slam 4\Ean13\Ean13Project\obj\Debug\Ean13Project.dll
+C:\Slam 4\Ean13\Ean13Project\obj\Debug\Ean13Project.pdb

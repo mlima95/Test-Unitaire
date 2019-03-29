@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8ff1b6ac-3914-4fb5-a046-81ae24ed5e8e" name="mlima@R108P17HVVS 2019-03-14 12:01:39" runUser="SIO\mlima" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="04463729-3cd3-40da-91d8-44210da3ddb3">
+    <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+    <Deployment enabled="false" runDeploymentRoot="mlima_R108P17HVVS 2019-03-14 12_01_39">
+      <DeploymentItem filename="C:\Slam 4\Ean13\Ean13\bin\Debug\Ean13.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-14T12:01:39.0220903+01:00" queuing="2019-03-14T12:01:39.0406400+01:00" start="2019-03-14T12:01:39.0523556+01:00" finish="2019-03-14T12:01:39.2798348+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="10" executed="10" error="0" failed="8" timeout="0" aborted="0" inconclusive="2" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Ean13ConstructorTest_09" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="95d262da-c4b6-6cd9-524b-aa179d60e1fe">
+      <Execution id="a634dcc2-602f-4ef4-909b-f4bd1f95b151" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Ean13ConstructorTest_09" />
+    </UnitTest>
+    <UnitTest name="Ean13ConstructorTest_11" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="b49a2296-c3e4-c58c-e3fc-c8778ca8f3a6">
+      <Execution id="1cebac84-6e88-4699-93f6-a554b5cf9a20" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Ean13ConstructorTest_11" />
+    </UnitTest>
+    <UnitTest name="PoidsPairTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="fe659b80-3d78-6fd1-2746-359872bf0390">
+      <Execution id="0c965569-019a-49e6-8222-82b6174d3ba6" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PoidsPairTest" />
+    </UnitTest>
+    <UnitTest name="Ean13ConstructorTest_13" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="a8dceb90-9f48-0aa1-5396-4d367107ac5c">
+      <Execution id="d25f0ba5-dc91-4af2-bdcf-b477a0c5eae2" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Ean13ConstructorTest_13" />
+    </UnitTest>
+    <UnitTest name="ResteTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="259ba197-5a6d-0b27-50b7-e2f068c81544">
+      <Execution id="09f6cc61-ae1c-468c-a13b-734480d4942b" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ResteTest" />
+    </UnitTest>
+    <UnitTest name="CleTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="f3b18e16-4695-2b3b-7df5-6b1e4bdd4554">
+      <Execution id="0c250b36-eca0-4bfd-920d-29109c865c16" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CleTest" />
+    </UnitTest>
+    <UnitTest name="ProgramConstructorTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="bc5185dc-fd40-8293-04d9-b52c3f0a337a">
+      <Execution id="234970ed-d8bd-4dcb-9497-314ce6e31db1" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.ProgramTest, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProgramConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="0d932525-e5e3-11ab-796f-c61b7e167626">
+      <Execution id="dd3b93d1-a1b9-4848-ae91-99440d8d33ec" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="PoidsImpairTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="75e8a8b3-3b9f-b005-9f0c-675d08f23d8f">
+      <Execution id="992d3aee-74bb-43dc-80a6-aeb81cc21f16" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PoidsImpairTest" />
+    </UnitTest>
+    <UnitTest name="MainTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="fe6a509f-0d48-10bc-1035-a76da7f10f84">
+      <DeploymentItems>
+        <DeploymentItem filename="Ean13.exe" />
+      </DeploymentItems>
+      <Execution id="09d6eb4d-50d8-46ea-848a-ebd1475aeff0" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.ProgramTest, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MainTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Les résultats ne figurent pas dans une liste" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Tous les résultats chargés" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0d932525-e5e3-11ab-796f-c61b7e167626" executionId="dd3b93d1-a1b9-4848-ae91-99440d8d33ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="259ba197-5a6d-0b27-50b7-e2f068c81544" executionId="09f6cc61-ae1c-468c-a13b-734480d4942b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75e8a8b3-3b9f-b005-9f0c-675d08f23d8f" executionId="992d3aee-74bb-43dc-80a6-aeb81cc21f16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95d262da-c4b6-6cd9-524b-aa179d60e1fe" executionId="a634dcc2-602f-4ef4-909b-f4bd1f95b151" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a8dceb90-9f48-0aa1-5396-4d367107ac5c" executionId="d25f0ba5-dc91-4af2-bdcf-b477a0c5eae2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b49a2296-c3e4-c58c-e3fc-c8778ca8f3a6" executionId="1cebac84-6e88-4699-93f6-a554b5cf9a20" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc5185dc-fd40-8293-04d9-b52c3f0a337a" executionId="234970ed-d8bd-4dcb-9497-314ce6e31db1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3b18e16-4695-2b3b-7df5-6b1e4bdd4554" executionId="0c250b36-eca0-4bfd-920d-29109c865c16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe659b80-3d78-6fd1-2746-359872bf0390" executionId="0c965569-019a-49e6-8222-82b6174d3ba6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe6a509f-0d48-10bc-1035-a76da7f10f84" executionId="09d6eb4d-50d8-46ea-848a-ebd1475aeff0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dd3b93d1-a1b9-4848-ae91-99440d8d33ec" testId="0d932525-e5e3-11ab-796f-c61b7e167626" testName="ToStringTest" computerName="R108P17HVVS" duration="00:00:00.0178822" startTime="2019-03-14T12:01:39.0748105+01:00" endTime="2019-03-14T12:01:39.2329721+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd3b93d1-a1b9-4848-ae91-99440d8d33ec">
+      <Output>
+        <ErrorInfo>
+          <Message>La méthode de test Ean13Project.Ean13Test.ToStringTest a levé une exception : 
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.</Message>
+          <StackTrace>    à Ean13Project.Ean13..ctor(Int32[] ean13) dans C:\Slam 4\Ean13\Ean13\Ean13.cs:ligne 31
+   à Ean13Project.Ean13Test.ToStringTest() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 182
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="09f6cc61-ae1c-468c-a13b-734480d4942b" testId="259ba197-5a6d-0b27-50b7-e2f068c81544" testName="ResteTest" computerName="R108P17HVVS" duration="00:00:00.0013406" startTime="2019-03-14T12:01:39.2329721+01:00" endTime="2019-03-14T12:01:39.2329721+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="09f6cc61-ae1c-468c-a13b-734480d4942b">
+      <Output>
+        <ErrorInfo>
+          <Message>La méthode de test Ean13Project.Ean13Test.ResteTest a levé une exception : 
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.</Message>
+          <StackTrace>    à Ean13Project.Ean13..ctor(Int32[] ean13) dans C:\Slam 4\Ean13\Ean13\Ean13.cs:ligne 31
+   à Ean13Project.Ean13Test.ResteTest() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 169
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="992d3aee-74bb-43dc-80a6-aeb81cc21f16" testId="75e8a8b3-3b9f-b005-9f0c-675d08f23d8f" testName="PoidsImpairTest" computerName="R108P17HVVS" duration="00:00:00.0010761" startTime="2019-03-14T12:01:39.2329721+01:00" endTime="2019-03-14T12:01:39.2329721+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="992d3aee-74bb-43dc-80a6-aeb81cc21f16">
+      <Output>
+        <ErrorInfo>
+          <Message>La méthode de test Ean13Project.Ean13Test.PoidsImpairTest a levé une exception : 
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.</Message>
+          <StackTrace>    à Ean13Project.Ean13..ctor(Int32[] ean13) dans C:\Slam 4\Ean13\Ean13\Ean13.cs:ligne 31
+   à Ean13Project.Ean13Test.PoidsImpairTest() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 143
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a634dcc2-602f-4ef4-909b-f4bd1f95b151" testId="95d262da-c4b6-6cd9-524b-aa179d60e1fe" testName="Ean13ConstructorTest_09" computerName="R108P17HVVS" duration="00:00:00.0035127" startTime="2019-03-14T12:01:39.2329721+01:00" endTime="2019-03-14T12:01:39.2329721+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a634dcc2-602f-4ef4-909b-f4bd1f95b151">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.AreEqual. Attendu : &lt;La référence d'objet n'est pas définie à une instance d'un objet.&gt;, Réel : &lt;Un élément du gencode n'est pas compris entre 0 et 9&gt;. </Message>
+          <StackTrace>   à Ean13Project.Ean13Test.Ean13ConstructorTest_09() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 109
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d25f0ba5-dc91-4af2-bdcf-b477a0c5eae2" testId="a8dceb90-9f48-0aa1-5396-4d367107ac5c" testName="Ean13ConstructorTest_13" computerName="R108P17HVVS" duration="00:00:00.0010960" startTime="2019-03-14T12:01:39.2329721+01:00" endTime="2019-03-14T12:01:39.2485930+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d25f0ba5-dc91-4af2-bdcf-b477a0c5eae2">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.AreEqual. Attendu : &lt;La référence d'objet n'est pas définie à une instance d'un objet.&gt;, Réel : &lt;Un code Ean 13 doit être un tableau de 12 entiers&gt;. </Message>
+          <StackTrace>   à Ean13Project.Ean13Test.Ean13ConstructorTest_13() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1cebac84-6e88-4699-93f6-a554b5cf9a20" testId="b49a2296-c3e4-c58c-e3fc-c8778ca8f3a6" testName="Ean13ConstructorTest_11" computerName="R108P17HVVS" duration="00:00:00.0010724" startTime="2019-03-14T12:01:39.2485930+01:00" endTime="2019-03-14T12:01:39.2485930+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1cebac84-6e88-4699-93f6-a554b5cf9a20">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.AreEqual. Attendu : &lt;La référence d'objet n'est pas définie à une instance d'un objet.&gt;, Réel : &lt;Un code Ean 13 doit être un tableau de 12 entiers&gt;. </Message>
+          <StackTrace>   à Ean13Project.Ean13Test.Ean13ConstructorTest_11() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 94
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="234970ed-d8bd-4dcb-9497-314ce6e31db1" testId="bc5185dc-fd40-8293-04d9-b52c3f0a337a" testName="ProgramConstructorTest" computerName="R108P17HVVS" duration="00:00:00.0005385" startTime="2019-03-14T12:01:39.2485930+01:00" endTime="2019-03-14T12:01:39.2642139+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="234970ed-d8bd-4dcb-9497-314ce6e31db1">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. TODO: implémentez le code pour vérifier la cible</Message>
+          <StackTrace>   à Ean13Project.ProgramTest.ProgramConstructorTest() dans C:\Slam 4\Ean13\Ean13Project\ProgramTest.cs:ligne 74
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0c250b36-eca0-4bfd-920d-29109c865c16" testId="f3b18e16-4695-2b3b-7df5-6b1e4bdd4554" testName="CleTest" computerName="R108P17HVVS" duration="00:00:00.0011181" startTime="2019-03-14T12:01:39.2642139+01:00" endTime="2019-03-14T12:01:39.2642139+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c250b36-eca0-4bfd-920d-29109c865c16">
+      <Output>
+        <ErrorInfo>
+          <Message>La méthode de test Ean13Project.Ean13Test.CleTest a levé une exception : 
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.</Message>
+          <StackTrace>    à Ean13Project.Ean13..ctor(Int32[] ean13) dans C:\Slam 4\Ean13\Ean13\Ean13.cs:ligne 31
+   à Ean13Project.Ean13Test.CleTest() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 121
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0c965569-019a-49e6-8222-82b6174d3ba6" testId="fe659b80-3d78-6fd1-2746-359872bf0390" testName="PoidsPairTest" computerName="R108P17HVVS" duration="00:00:00.0011036" startTime="2019-03-14T12:01:39.2642139+01:00" endTime="2019-03-14T12:01:39.2642139+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c965569-019a-49e6-8222-82b6174d3ba6">
+      <Output>
+        <ErrorInfo>
+          <Message>La méthode de test Ean13Project.Ean13Test.PoidsPairTest a levé une exception : 
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.</Message>
+          <StackTrace>    à Ean13Project.Ean13..ctor(Int32[] ean13) dans C:\Slam 4\Ean13\Ean13\Ean13.cs:ligne 31
+   à Ean13Project.Ean13Test.PoidsPairTest() dans C:\Slam 4\Ean13\Ean13Project\Ean13Test.cs:ligne 156
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="09d6eb4d-50d8-46ea-848a-ebd1475aeff0" testId="fe6a509f-0d48-10bc-1035-a76da7f10f84" testName="MainTest" computerName="R108P17HVVS" duration="00:00:00.0022603" startTime="2019-03-14T12:01:39.2642139+01:00" endTime="2019-03-14T12:01:39.2798348+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="09d6eb4d-50d8-46ea-848a-ebd1475aeff0">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. Une méthode qui ne retourne pas une valeur ne peut pas être vérifiée.</Message>
+          <StackTrace>   à Ean13Project.ProgramTest.MainTest() dans C:\Slam 4\Ean13\Ean13Project\ProgramTest.cs:ligne 86
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

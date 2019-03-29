@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f5ff4693-67d1-4d48-a8a0-6a118527a761" name="mlima@R108P17HVVS 2019-03-14 11:35:50" runUser="SIO\mlima" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="04463729-3cd3-40da-91d8-44210da3ddb3">
+    <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+    <Deployment enabled="false" runDeploymentRoot="mlima_R108P17HVVS 2019-03-14 11_35_50">
+      <DeploymentItem filename="C:\Slam 4\Ean13\Ean13\bin\Debug\Ean13.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-14T11:35:50.2476345+01:00" queuing="2019-03-14T11:35:50.2661842+01:00" start="2019-03-14T11:35:50.2700894+01:00" finish="2019-03-14T11:35:50.4633968+01:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="9" executed="9" passed="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="2" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Ean13ConstructorTest_11" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="b49a2296-c3e4-c58c-e3fc-c8778ca8f3a6">
+      <Execution id="059a5762-4dfe-4937-8f8d-0386dbad3262" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Ean13ConstructorTest_11" />
+    </UnitTest>
+    <UnitTest name="PoidsPairTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="fe659b80-3d78-6fd1-2746-359872bf0390">
+      <Execution id="92ffade3-cc40-4ea9-b76e-6f2947b60982" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PoidsPairTest" />
+    </UnitTest>
+    <UnitTest name="Ean13ConstructorTest_13" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="a8dceb90-9f48-0aa1-5396-4d367107ac5c">
+      <Execution id="05c3e486-da66-4c98-8d9c-9da679a82b86" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Ean13ConstructorTest_13" />
+    </UnitTest>
+    <UnitTest name="ResteTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="259ba197-5a6d-0b27-50b7-e2f068c81544">
+      <Execution id="f02a9266-33e3-43c0-80b7-def747b11450" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ResteTest" />
+    </UnitTest>
+    <UnitTest name="CleTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="f3b18e16-4695-2b3b-7df5-6b1e4bdd4554">
+      <Execution id="1797cb43-07c6-4836-b070-2da1a32c854b" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CleTest" />
+    </UnitTest>
+    <UnitTest name="ProgramConstructorTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="bc5185dc-fd40-8293-04d9-b52c3f0a337a">
+      <Execution id="a2686430-9430-4d0f-b496-0499926d138c" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.ProgramTest, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProgramConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="0d932525-e5e3-11ab-796f-c61b7e167626">
+      <Execution id="85b4878c-428f-4185-806b-bb332aa5c2a1" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="PoidsImpairTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="75e8a8b3-3b9f-b005-9f0c-675d08f23d8f">
+      <Execution id="3171d6df-f63d-478a-a76c-35a1c93841d6" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.Ean13Test, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PoidsImpairTest" />
+    </UnitTest>
+    <UnitTest name="MainTest" storage="c:\slam 4\ean13\ean13project\bin\debug\ean13project.dll" id="fe6a509f-0d48-10bc-1035-a76da7f10f84">
+      <DeploymentItems>
+        <DeploymentItem filename="Ean13.exe" />
+      </DeploymentItems>
+      <Execution id="ec5b7ed5-c0e4-41ed-af88-764ae4aeb926" />
+      <TestMethod codeBase="C:/Slam 4/Ean13/Ean13Project/bin/Debug/Ean13Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Ean13Project.ProgramTest, Ean13Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MainTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Les résultats ne figurent pas dans une liste" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Tous les résultats chargés" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0d932525-e5e3-11ab-796f-c61b7e167626" executionId="85b4878c-428f-4185-806b-bb332aa5c2a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="259ba197-5a6d-0b27-50b7-e2f068c81544" executionId="f02a9266-33e3-43c0-80b7-def747b11450" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75e8a8b3-3b9f-b005-9f0c-675d08f23d8f" executionId="3171d6df-f63d-478a-a76c-35a1c93841d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a8dceb90-9f48-0aa1-5396-4d367107ac5c" executionId="05c3e486-da66-4c98-8d9c-9da679a82b86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b49a2296-c3e4-c58c-e3fc-c8778ca8f3a6" executionId="059a5762-4dfe-4937-8f8d-0386dbad3262" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc5185dc-fd40-8293-04d9-b52c3f0a337a" executionId="a2686430-9430-4d0f-b496-0499926d138c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3b18e16-4695-2b3b-7df5-6b1e4bdd4554" executionId="1797cb43-07c6-4836-b070-2da1a32c854b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe659b80-3d78-6fd1-2746-359872bf0390" executionId="92ffade3-cc40-4ea9-b76e-6f2947b60982" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe6a509f-0d48-10bc-1035-a76da7f10f84" executionId="ec5b7ed5-c0e4-41ed-af88-764ae4aeb926" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="85b4878c-428f-4185-806b-bb332aa5c2a1" testId="0d932525-e5e3-11ab-796f-c61b7e167626" testName="ToStringTest" computerName="R108P17HVVS" duration="00:00:00.0091873" startTime="2019-03-14T11:35:50.2749709+01:00" endTime="2019-03-14T11:35:50.4106766+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85b4878c-428f-4185-806b-bb332aa5c2a1">
+    </UnitTestResult>
+    <UnitTestResult executionId="f02a9266-33e3-43c0-80b7-def747b11450" testId="259ba197-5a6d-0b27-50b7-e2f068c81544" testName="ResteTest" computerName="R108P17HVVS" duration="00:00:00.0001846" startTime="2019-03-14T11:35:50.4106766+01:00" endTime="2019-03-14T11:35:50.4136055+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f02a9266-33e3-43c0-80b7-def747b11450">
+    </UnitTestResult>
+    <UnitTestResult executionId="3171d6df-f63d-478a-a76c-35a1c93841d6" testId="75e8a8b3-3b9f-b005-9f0c-675d08f23d8f" testName="PoidsImpairTest" computerName="R108P17HVVS" duration="00:00:00.0001126" startTime="2019-03-14T11:35:50.4136055+01:00" endTime="2019-03-14T11:35:50.4165344+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3171d6df-f63d-478a-a76c-35a1c93841d6">
+    </UnitTestResult>
+    <UnitTestResult executionId="05c3e486-da66-4c98-8d9c-9da679a82b86" testId="a8dceb90-9f48-0aa1-5396-4d367107ac5c" testName="Ean13ConstructorTest_13" computerName="R108P17HVVS" duration="00:00:00.0002987" startTime="2019-03-14T11:35:50.4165344+01:00" endTime="2019-03-14T11:35:50.4184870+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05c3e486-da66-4c98-8d9c-9da679a82b86">
+    </UnitTestResult>
+    <UnitTestResult executionId="059a5762-4dfe-4937-8f8d-0386dbad3262" testId="b49a2296-c3e4-c58c-e3fc-c8778ca8f3a6" testName="Ean13ConstructorTest_11" computerName="R108P17HVVS" duration="00:00:00.0004090" startTime="2019-03-14T11:35:50.4184870+01:00" endTime="2019-03-14T11:35:50.4223922+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="059a5762-4dfe-4937-8f8d-0386dbad3262">
+    </UnitTestResult>
+    <UnitTestResult executionId="a2686430-9430-4d0f-b496-0499926d138c" testId="bc5185dc-fd40-8293-04d9-b52c3f0a337a" testName="ProgramConstructorTest" computerName="R108P17HVVS" duration="00:00:00.0049572" startTime="2019-03-14T11:35:50.4223922+01:00" endTime="2019-03-14T11:35:50.4292263+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a2686430-9430-4d0f-b496-0499926d138c">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. TODO: implémentez le code pour vérifier la cible</Message>
+          <StackTrace>   à Ean13Project.ProgramTest.ProgramConstructorTest() dans C:\Slam 4\Ean13\Ean13Project\ProgramTest.cs:ligne 74
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1797cb43-07c6-4836-b070-2da1a32c854b" testId="f3b18e16-4695-2b3b-7df5-6b1e4bdd4554" testName="CleTest" computerName="R108P17HVVS" duration="00:00:00.0001236" startTime="2019-03-14T11:35:50.4292263+01:00" endTime="2019-03-14T11:35:50.4350841+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1797cb43-07c6-4836-b070-2da1a32c854b">
+    </UnitTestResult>
+    <UnitTestResult executionId="92ffade3-cc40-4ea9-b76e-6f2947b60982" testId="fe659b80-3d78-6fd1-2746-359872bf0390" testName="PoidsPairTest" computerName="R108P17HVVS" duration="00:00:00.0001323" startTime="2019-03-14T11:35:50.4419182+01:00" endTime="2019-03-14T11:35:50.4458234+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92ffade3-cc40-4ea9-b76e-6f2947b60982">
+    </UnitTestResult>
+    <UnitTestResult executionId="ec5b7ed5-c0e4-41ed-af88-764ae4aeb926" testId="fe6a509f-0d48-10bc-1035-a76da7f10f84" testName="MainTest" computerName="R108P17HVVS" duration="00:00:00.0029877" startTime="2019-03-14T11:35:50.4458234+01:00" endTime="2019-03-14T11:35:50.4516812+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec5b7ed5-c0e4-41ed-af88-764ae4aeb926">
+      <Output>
+        <ErrorInfo>
+          <Message>Échec de Assert.Inconclusive. Une méthode qui ne retourne pas une valeur ne peut pas être vérifiée.</Message>
+          <StackTrace>   à Ean13Project.ProgramTest.MainTest() dans C:\Slam 4\Ean13\Ean13Project\ProgramTest.cs:ligne 86
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

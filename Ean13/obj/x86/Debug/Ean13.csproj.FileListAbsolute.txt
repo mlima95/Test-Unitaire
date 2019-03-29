@@ -1,0 +1,9 @@
+U:\Tp\Slam4\Ean13\Ean13\bin\Debug\Ean13.exe
+U:\Tp\Slam4\Ean13\Ean13\bin\Debug\Ean13.pdb
+U:\Tp\Slam4\Ean13\Ean13\obj\x86\Debug\Ean13.exe
+U:\Tp\Slam4\Ean13\Ean13\obj\x86\Debug\Ean13.pdb
+C:\Slam 4\Ean13\Ean13\obj\x86\Debug\Ean13.exe
+C:\Slam 4\Ean13\Ean13\obj\x86\Debug\Ean13.pdb
+C:\Slam 4\Ean13\Ean13\bin\Debug\Ean13.exe
+C:\Slam 4\Ean13\Ean13\bin\Debug\Ean13.pdb
+C:\Slam 4\Ean13\Ean13\obj\x86\Debug\Ean13.csprojResolveAssemblyReference.cache
