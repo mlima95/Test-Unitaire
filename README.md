@@ -4,9 +4,7 @@ Objectif du projet : Utiliser un outil de test unitaire. Avec cet outil on réal
 les résultats des méthodes de la classe sans écrire de Main. 
 Cet outil de test unitaire nous permet aussi d'avoir un historique de test.
 
-Les outils mis en oeuvre :
-* Visual studio 2017
-* Assistant de test Unitaire
+
 
 Tout d'abord on ajoute un test unitaire :
 
@@ -23,3 +21,19 @@ En écrivant les méthodes de la classe Ean13 on remarque quelles sont directeme
 Après exécution des tests voici ce que l'on obtient : 
 
 ![resultat](https://github.com/mlima95/Test-Unitaire/blob/master/Ean13.PNG)
+
+## Languages
+```
+
+- C#
+
+```
+## Outils
+```
+- Visual Studio 2017
+
+- Assistant de test Unitaire
+
+- Sublime Text (Editor)
+
+```
